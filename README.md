@@ -6,5 +6,3 @@
 ### 소 제목
 
 printf("Hello World")
-
-추가 코드 수정
